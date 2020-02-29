@@ -1,0 +1,9 @@
+C:\Users\metea\source\repos\SendMail\SendMail\bin\Debug\SendMail.exe.config
+C:\Users\metea\source\repos\SendMail\SendMail\bin\Debug\SendMail.exe
+C:\Users\metea\source\repos\SendMail\SendMail\bin\Debug\SendMail.pdb
+C:\Users\metea\source\repos\SendMail\SendMail\obj\Debug\SendMail.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\SendMail\SendMail\obj\Debug\SendMail.Form1.resources
+C:\Users\metea\source\repos\SendMail\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+C:\Users\metea\source\repos\SendMail\SendMail\obj\Debug\SendMail.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\SendMail\SendMail\obj\Debug\SendMail.exe
+C:\Users\metea\source\repos\SendMail\SendMail\obj\Debug\SendMail.pdb
